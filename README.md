@@ -20,5 +20,3 @@ The main libraries and Frameworks used for this project are:
 - Scikit-Learn to perform word embedding bag of words model and count vectorizer model.
 - Flask to deploy the chatbot on facebook apps and messenger.
 - VSCode port forwarding For tunneling.
-
-![General Schema](https://github.com/Youtir/Pharmaceutical-Assistance-Chatbot-Dwayat AI/blob/master/generalSchema.png)
