@@ -5,7 +5,7 @@ from pymessenger.bot import Bot
 from bot_response import bot_response
 
 app = Flask(__name__)
-ACCESS_TOKEN = "EAAUk91XhuU0BO6RyvEMIkLZBvhs6vXUZCpYjyIeuCM78RJDLZBrZCjB43fvmoGtcAFhhJRmf8a0QGETxmvRRebEIysfMt7oxD7OhAMmncZBjjcukn6xwCPqzMkxZAF4dGHlM4VNifghidKEpD7rrZBKyB6WGFVuA9zZASpQnF84l68XB9RtFFInKxt22mjuk6NwPXCNRlgWqMropBuKm3gZDZD"
+ACCESS_TOKEN = "ACCESS_TOKEN"
 VERIFY_TOKEN = "dwayat.ai-verifytoken"
 bot = Bot(ACCESS_TOKEN)
 
